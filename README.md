@@ -4,6 +4,7 @@ This script installs musicbee on linux (currently arch and debian based flavors)
 Simply run these commands:
 ```
 git clone https://github.com/AlexAshs/musicbee-on-linux.git 
+chmod +x ./musicbee-on-linux/install_musicbee.sh
 ./musicbee-on-linux/install_musicbee.sh
 ```
 
